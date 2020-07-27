@@ -6,7 +6,7 @@ const NavBar = () => {
     <nav>
       <div className="nav-wrapper white">
         <Link to="/" className="brand-logo left">
-        Pharmacy Management System
+       PMS
         </Link>
         <ul id="nav-mobile" className="right">
           <li>
